@@ -1,1 +1,1 @@
-# poo_discovery
+It's ruby program
